@@ -125,6 +125,3 @@ Un ejemplo de la salida estructurada que contiene todas las métricas calculadas
         0.23
     ]
 }
-```
-_**Nota**: Deberás crear una carpeta `assets` en tu repositorio y guardar las imágenes generadas allí, y luego actualizar las rutas en este archivo README para que se muestren correctamente._
-```
